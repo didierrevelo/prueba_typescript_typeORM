@@ -1,0 +1,11 @@
+{
+  "name": "prueba_typescript_typeorm",
+  "version": "1.0.0",
+  "description": "este es el segundo intento de hacer funcionar un api con migraciones en typescript con typeORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Didier Revelo",
+  "license": "ISC"
+}
